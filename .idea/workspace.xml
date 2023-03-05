@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c80aa759-0013-4656-8578-3f4c670280ab" name="Changes" comment="Adding project files">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/application-2023-03-03-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/application-2023-03-04-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/application.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/validator/creditCard/config/ConfigurationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/validator/creditCard/validation/strategy/LuhnStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/validator/creditCard/validation/strategy/ValidationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/validator/creditCard/validation/validator/AbstractValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/validator/creditCard/validation/validator/AmericanExpressCreditCardValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/validator/creditCard/validation/validator/CreditCardFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/validator/creditCard/validation/validator/EmptyInputException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/validator/creditCard/validation/validator/GenericCreditCardValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/validator/creditCard/validation/validator/InvalidAmericanExpressCardNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/validator/creditCard/validation/validator/InvalidLengthException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/validator/creditCard/validation/validator/InvalidMasterCardCardNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/validator/creditCard/validation/validator/MasterCardCreditCardValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/validator/creditCard/validation/validator/RegexCreditCardFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/validator/creditCard/validation/validator/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/card_patterns.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/diagram_a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/full_run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/test_report.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/validator/creditCard/config/ConfigurationManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/validator/creditCard/validation/strategy/LuhnStrategyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/validator/creditCard/validation/validator/AmericanExpressCreditCardValidatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/validator/creditCard/validation/validator/ExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/validator/creditCard/validation/validator/GenericCreditCardValidatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/validator/creditCard/validation/validator/MasterCardCreditCardValidatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/validator/creditCard/validation/validator/RegexCreditCardFactoryTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/htmlReport" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="69df0e88-8ac9-40d0-92d6-d2d9db1f7fdc" />
+        <option name="url" value="https://github.com/trapatsas/validate-credit-cards.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MSVrZmYWoJc8UaPyMDMJHOASRF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "/Users/trapatsas/IdeaProjects/credit-card-validator/src/test/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.validator.creditCard.validation.validator" />
+      <recent name="org.validator.creditCard.validation.strategy" />
+      <recent name="org.validator.creditCard.config" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.validator.creditCard.validation.validator" />
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.creditCard in credit-card-validator">
+    <configuration name="creditCard in credit-card-validator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="credit-card-validator" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/org/validator/creditCard" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in credit-card-validator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="credit-card-validator" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.creditCard in credit-card-validator" />
+        <item itemvalue="JUnit.java in credit-card-validator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c80aa759-0013-4656-8578-3f4c670280ab" name="Changes" comment="" />
+      <created>1677761170923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677761170923</updated>
+      <workItem from="1677761172127" duration="23502000" />
+      <workItem from="1677850859748" duration="188000" />
+      <workItem from="1677852087867" duration="49529000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1677852100220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677852100220</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add project files">
+      <created>1677858724145</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677858724145</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Factory pattern and more tests">
+      <created>1677874752117</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677874752117</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add Singleton for config file access">
+      <created>1677925995229</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677925995229</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add README">
+      <created>1677929258056</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677929258056</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Refactoring and README updates">
+      <created>1678030121875</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678030121875</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Project files" />
+    <MESSAGE value="Add project files" />
+    <MESSAGE value="Add Factory pattern and more tests" />
+    <MESSAGE value="Add Singleton for config file access" />
+    <MESSAGE value="Add README" />
+    <MESSAGE value="Refactoring and README updates" />
+    <MESSAGE value="Adding project files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding project files" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/credit_card_validator$creditCard_in_credit_card_validator.ic" NAME="creditCard in credit-card-validator Coverage Results" MODIFIED="1678025367160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/credit_card_validator$java_in_credit_card_validator.ic" NAME="java in credit-card-validator Coverage Results" MODIFIED="1678025799890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

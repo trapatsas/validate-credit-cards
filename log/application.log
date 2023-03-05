@@ -1,0 +1,1451 @@
+2023-03-05 01:33:14 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 01:33:14 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 4532888711880762
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 4532888711880762 is valid
+2023-03-05 01:33:14 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:33:14 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 376102792936197 is valid
+2023-03-05 01:33:14 INFO  AmericanExpressCreditCardValidator:37 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 01:33:14 TRACE RegexCreditCardFactory:30 - MasterCard selected
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 5580646342674402
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 5580646342674402 is valid
+2023-03-05 01:33:14 INFO  MasterCardCreditCardValidator:35 - Card with number 5580646342674402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 01:33:14 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 4485600345100609
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 4485600345100609 is valid
+2023-03-05 01:33:14 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:33:14 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 347060116846136
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 347060116846136 is valid
+2023-03-05 01:33:14 INFO  AmericanExpressCreditCardValidator:37 - Card with number 347060116846136 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 01:33:14 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 4716955349044653
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 4716955349044653 is valid
+2023-03-05 01:33:14 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:33:14 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 376102792936197 is valid
+2023-03-05 01:33:14 INFO  AmericanExpressCreditCardValidator:37 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 01:33:14 INFO  LuhnStrategy:37 - 376102792936197 passes the Luhn validation
+2023-03-05 01:33:14 TRACE RegexCreditCardFactory:30 - MasterCard selected
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 5537076553127227
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 5537076553127227 is valid
+2023-03-05 01:33:14 INFO  MasterCardCreditCardValidator:35 - Card with number 5537076553127227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 4485600345100609
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 4485600345100609 is valid
+2023-03-05 01:33:14 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:33:14 INFO  LuhnStrategy:37 - 4485600345100609 passes the Luhn validation
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 4716955349044663
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 4716955349044663 is valid
+2023-03-05 01:33:14 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:33:14 INFO  LuhnStrategy:39 - 4716955349044663 fails the Luhn validation
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 6011-6048-5591-4032
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 6011604855914032 is valid
+2023-03-05 01:33:14 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:33:14 INFO  LuhnStrategy:39 - 6011604855914032 fails the Luhn validation
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 3563 9379 7208 6062
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 3563937972086062 is valid
+2023-03-05 01:33:14 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:33:14 INFO  LuhnStrategy:39 - 3563937972086062 fails the Luhn validation
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 5580644322674402
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 5580644322674402 is valid
+2023-03-05 01:33:14 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:33:14 INFO  LuhnStrategy:39 - 5580644322674402 fails the Luhn validation
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 4716955349044653
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 4716955349044653 is valid
+2023-03-05 01:33:14 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:33:14 INFO  LuhnStrategy:37 - 4716955349044653 passes the Luhn validation
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 6011-6048-5891-4032
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 6011604858914032 is valid
+2023-03-05 01:33:14 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:33:14 INFO  LuhnStrategy:37 - 6011604858914032 passes the Luhn validation
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 3563 9399 7208 6062
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 3563939972086062 is valid
+2023-03-05 01:33:14 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:33:14 INFO  LuhnStrategy:37 - 3563939972086062 passes the Luhn validation
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 5580646342674402
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 5580646342674402 is valid
+2023-03-05 01:33:14 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:33:14 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 1234 5678 9012 3456
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 1234567890123456 is valid
+2023-03-05 01:33:14 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:33:14 INFO  LuhnStrategy:39 - 1234567890123456 fails the Luhn validation
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number:  CC 4539 1488-0343,6467A
+2023-03-05 01:33:14 INFO  AbstractValidator:27 - Input 4539148803436467 is valid
+2023-03-05 01:33:14 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:33:14 INFO  LuhnStrategy:37 - 4539148803436467 passes the Luhn validation
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 12345678901234567890
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: 123456789
+2023-03-05 01:33:14 INFO  AbstractValidator:12 - Validating card with number: This is not a CC
+2023-03-05 01:33:14 INFO  LuhnStrategy:37 - 123456789155 passes the Luhn validation
+2023-03-05 01:33:14 INFO  LuhnStrategy:39 - 1010101010100030 fails the Luhn validation
+2023-03-05 01:34:45 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 01:34:45 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 4532888711880762
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 4532888711880762 is valid
+2023-03-05 01:34:45 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:34:45 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 376102792936197 is valid
+2023-03-05 01:34:45 INFO  AmericanExpressCreditCardValidator:37 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 01:34:45 TRACE RegexCreditCardFactory:30 - MasterCard selected
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 5580646342674402
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 5580646342674402 is valid
+2023-03-05 01:34:45 INFO  MasterCardCreditCardValidator:35 - Card with number 5580646342674402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 01:34:45 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 4485600345100609
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 4485600345100609 is valid
+2023-03-05 01:34:45 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:34:45 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 347060116846136
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 347060116846136 is valid
+2023-03-05 01:34:45 INFO  AmericanExpressCreditCardValidator:37 - Card with number 347060116846136 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 01:34:45 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 4716955349044653
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 4716955349044653 is valid
+2023-03-05 01:34:45 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:34:45 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 376102792936197 is valid
+2023-03-05 01:34:45 INFO  AmericanExpressCreditCardValidator:37 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 01:34:45 INFO  LuhnStrategy:37 - 376102792936197 passes the Luhn validation
+2023-03-05 01:34:45 TRACE RegexCreditCardFactory:30 - MasterCard selected
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 5537076553127227
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 5537076553127227 is valid
+2023-03-05 01:34:45 INFO  MasterCardCreditCardValidator:35 - Card with number 5537076553127227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 4485600345100609
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 4485600345100609 is valid
+2023-03-05 01:34:45 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:34:45 INFO  LuhnStrategy:37 - 4485600345100609 passes the Luhn validation
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 4716955349044663
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 4716955349044663 is valid
+2023-03-05 01:34:45 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:34:45 INFO  LuhnStrategy:39 - 4716955349044663 fails the Luhn validation
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 6011-6048-5591-4032
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 6011604855914032 is valid
+2023-03-05 01:34:45 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:34:45 INFO  LuhnStrategy:39 - 6011604855914032 fails the Luhn validation
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 3563 9379 7208 6062
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 3563937972086062 is valid
+2023-03-05 01:34:45 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:34:45 INFO  LuhnStrategy:39 - 3563937972086062 fails the Luhn validation
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 5580644322674402
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 5580644322674402 is valid
+2023-03-05 01:34:45 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:34:45 INFO  LuhnStrategy:39 - 5580644322674402 fails the Luhn validation
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 4716955349044653
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 4716955349044653 is valid
+2023-03-05 01:34:45 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:34:45 INFO  LuhnStrategy:37 - 4716955349044653 passes the Luhn validation
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 6011-6048-5891-4032
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 6011604858914032 is valid
+2023-03-05 01:34:45 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:34:45 INFO  LuhnStrategy:37 - 6011604858914032 passes the Luhn validation
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 3563 9399 7208 6062
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 3563939972086062 is valid
+2023-03-05 01:34:45 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:34:45 INFO  LuhnStrategy:37 - 3563939972086062 passes the Luhn validation
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 5580646342674402
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 5580646342674402 is valid
+2023-03-05 01:34:45 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:34:45 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 1234 5678 9012 3456
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 1234567890123456 is valid
+2023-03-05 01:34:45 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:34:45 INFO  LuhnStrategy:39 - 1234567890123456 fails the Luhn validation
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number:  CC 4539 1488-0343,6467A
+2023-03-05 01:34:45 INFO  AbstractValidator:27 - Input 4539148803436467 is valid
+2023-03-05 01:34:45 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 01:34:45 INFO  LuhnStrategy:37 - 4539148803436467 passes the Luhn validation
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 12345678901234567890
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: 123456789
+2023-03-05 01:34:45 INFO  AbstractValidator:12 - Validating card with number: This is not a CC
+2023-03-05 01:34:45 INFO  LuhnStrategy:37 - 123456789155 passes the Luhn validation
+2023-03-05 01:34:45 INFO  LuhnStrategy:39 - 1010101010100030 fails the Luhn validation
+2023-03-05 11:32:07 INFO  LuhnStrategy:39 - abc fails the Luhn validation
+2023-03-05 11:33:11 INFO  LuhnStrategy:37 -  passes the Luhn validation
+2023-03-05 11:37:47 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 11:37:47 INFO  AbstractValidator:12 - Validating card with number: 5537076553127227
+2023-03-05 11:37:47 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 11:37:47 INFO  MasterCardCreditCardValidator:40 - Card with number 5537076553127227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:37:47 INFO  LuhnStrategy:37 - 5537076553127227 passes the Luhn validation
+2023-03-05 11:37:47 INFO  AbstractValidator:12 - Validating card with number: 5580646342674402
+2023-03-05 11:37:47 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 11:37:47 INFO  MasterCardCreditCardValidator:40 - Card with number 5580646342674402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:37:47 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 11:37:47 INFO  AbstractValidator:12 - Validating card with number: 2720511378112586
+2023-03-05 11:37:47 INFO  AbstractValidator:28 - Input 2720511378112586 is valid
+2023-03-05 11:39:38 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 11:39:38 INFO  AbstractValidator:12 - Validating card with number: 5537076553127227
+2023-03-05 11:39:38 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 11:43:16 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 11:43:16 INFO  AbstractValidator:12 - Validating card with number: 5537 0765 5312 7227
+2023-03-05 11:43:16 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 11:44:15 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 11:44:15 INFO  AbstractValidator:12 - Validating card with number: 5537 0765 5312 7227
+2023-03-05 11:44:15 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 11:44:15 INFO  MasterCardCreditCardValidator:40 - Card with number 5537 0765 5312 7227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:44:15 INFO  LuhnStrategy:37 - 5537076553127227 passes the Luhn validation
+2023-03-05 11:44:15 INFO  AbstractValidator:12 - Validating card with number: 5580 6463 4267 4402
+2023-03-05 11:44:15 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 11:44:15 INFO  MasterCardCreditCardValidator:40 - Card with number 5580 6463 4267 4402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:44:15 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 11:44:15 INFO  AbstractValidator:12 - Validating card with number: 2720 5113 7811 2586
+2023-03-05 11:44:15 INFO  AbstractValidator:28 - Input 2720511378112586 is valid
+2023-03-05 11:44:15 INFO  MasterCardCreditCardValidator:40 - Card with number 2720 5113 7811 2586 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:44:15 INFO  LuhnStrategy:37 - 2720511378112586 passes the Luhn validation
+2023-03-05 11:45:02 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 11:45:02 INFO  AbstractValidator:12 - Validating card with number: 5537 0765 5312 7227
+2023-03-05 11:45:02 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 11:45:02 INFO  MasterCardCreditCardValidator:40 - Card with number 5537 0765 5312 7227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:45:02 INFO  LuhnStrategy:37 - 5537076553127227 passes the Luhn validation
+2023-03-05 11:45:02 INFO  AbstractValidator:12 - Validating card with number: 5580 6463 4267 4402
+2023-03-05 11:45:02 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 11:45:02 INFO  MasterCardCreditCardValidator:40 - Card with number 5580 6463 4267 4402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:45:02 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 11:45:02 INFO  AbstractValidator:12 - Validating card with number: 2720 5113 7811 2586
+2023-03-05 11:45:02 INFO  AbstractValidator:28 - Input 2720511378112586 is valid
+2023-03-05 11:45:02 INFO  MasterCardCreditCardValidator:40 - Card with number 2720 5113 7811 2586 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:45:02 INFO  LuhnStrategy:37 - 2720511378112586 passes the Luhn validation
+2023-03-05 11:45:02 INFO  AbstractValidator:12 - Validating card with number: 2222420000001113
+2023-03-05 11:45:02 INFO  AbstractValidator:28 - Input 2222420000001113 is valid
+2023-03-05 11:45:57 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 11:45:57 INFO  AbstractValidator:12 - Validating card with number: 5537 0765 5312 7227
+2023-03-05 11:45:57 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 11:45:57 INFO  MasterCardCreditCardValidator:40 - Card with number 5537 0765 5312 7227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:45:57 INFO  LuhnStrategy:37 - 5537076553127227 passes the Luhn validation
+2023-03-05 11:45:57 INFO  AbstractValidator:12 - Validating card with number: 5580 6463 4267 4402
+2023-03-05 11:45:57 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 11:45:57 INFO  MasterCardCreditCardValidator:40 - Card with number 5580 6463 4267 4402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:45:57 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 11:45:57 INFO  AbstractValidator:12 - Validating card with number: 2720 5113 7811 2586
+2023-03-05 11:45:57 INFO  AbstractValidator:28 - Input 2720511378112586 is valid
+2023-03-05 11:45:57 INFO  MasterCardCreditCardValidator:40 - Card with number 2720 5113 7811 2586 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:45:57 INFO  LuhnStrategy:37 - 2720511378112586 passes the Luhn validation
+2023-03-05 11:45:57 INFO  AbstractValidator:12 - Validating card with number: 2222 4200 0000 1113
+2023-03-05 11:45:57 INFO  AbstractValidator:28 - Input 2222420000001113 is valid
+2023-03-05 11:48:30 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 11:48:30 INFO  AbstractValidator:12 - Validating card with number: 5537 0765 5312 7227
+2023-03-05 11:48:30 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 11:48:30 INFO  MasterCardCreditCardValidator:40 - Card with number 5537 0765 5312 7227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:48:30 INFO  LuhnStrategy:37 - 5537076553127227 passes the Luhn validation
+2023-03-05 11:48:30 INFO  AbstractValidator:12 - Validating card with number: 5580 6463 4267 4402
+2023-03-05 11:48:30 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 11:48:30 INFO  MasterCardCreditCardValidator:40 - Card with number 5580 6463 4267 4402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:48:30 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 11:48:30 INFO  AbstractValidator:12 - Validating card with number: 2720 5113 7811 2586
+2023-03-05 11:48:30 INFO  AbstractValidator:28 - Input 2720511378112586 is valid
+2023-03-05 11:48:30 INFO  MasterCardCreditCardValidator:40 - Card with number 2720 5113 7811 2586 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:48:30 INFO  LuhnStrategy:37 - 2720511378112586 passes the Luhn validation
+2023-03-05 11:48:30 INFO  AbstractValidator:12 - Validating card with number: 2222 4200 0000 1113
+2023-03-05 11:48:30 INFO  AbstractValidator:28 - Input 2222420000001113 is valid
+2023-03-05 11:48:30 INFO  MasterCardCreditCardValidator:40 - Card with number 2222 4200 0000 1113 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:48:30 INFO  LuhnStrategy:37 - 2222420000001113 passes the Luhn validation
+2023-03-05 11:48:30 INFO  AbstractValidator:12 - Validating card with number: 5425 2334 3010 9903
+2023-03-05 11:48:30 INFO  AbstractValidator:28 - Input 5425233430109903 is valid
+2023-03-05 11:48:30 INFO  MasterCardCreditCardValidator:40 - Card with number 5425 2334 3010 9903 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:48:30 INFO  LuhnStrategy:37 - 5425233430109903 passes the Luhn validation
+2023-03-05 11:49:39 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 11:49:39 INFO  AbstractValidator:12 - Validating card with number: 5537 0765 5312 7327
+2023-03-05 11:49:39 INFO  AbstractValidator:28 - Input 5537076553127327 is valid
+2023-03-05 11:49:39 INFO  MasterCardCreditCardValidator:40 - Card with number 5537 0765 5312 7327 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:49:39 INFO  LuhnStrategy:39 - 5537076553127327 fails the Luhn validation
+2023-03-05 11:49:39 INFO  AbstractValidator:12 - Validating card with number: 5580 6463 4277 4402
+2023-03-05 11:49:39 INFO  AbstractValidator:28 - Input 5580646342774402 is valid
+2023-03-05 11:49:39 INFO  MasterCardCreditCardValidator:40 - Card with number 5580 6463 4277 4402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:49:39 INFO  LuhnStrategy:39 - 5580646342774402 fails the Luhn validation
+2023-03-05 11:49:39 INFO  AbstractValidator:12 - Validating card with number: 2720 5214 7811 2586
+2023-03-05 11:49:39 INFO  AbstractValidator:28 - Input 2720521478112586 is valid
+2023-03-05 11:49:39 INFO  MasterCardCreditCardValidator:40 - Card with number 2720 5214 7811 2586 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:49:39 INFO  LuhnStrategy:39 - 2720521478112586 fails the Luhn validation
+2023-03-05 11:49:39 INFO  AbstractValidator:12 - Validating card with number: 2222 4200 1100 1113
+2023-03-05 11:49:39 INFO  AbstractValidator:28 - Input 2222420011001113 is valid
+2023-03-05 11:49:39 INFO  MasterCardCreditCardValidator:40 - Card with number 2222 4200 1100 1113 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:49:39 INFO  LuhnStrategy:39 - 2222420011001113 fails the Luhn validation
+2023-03-05 11:49:39 INFO  AbstractValidator:12 - Validating card with number: 5425 2334 4020 9903
+2023-03-05 11:49:39 INFO  AbstractValidator:28 - Input 5425233440209903 is valid
+2023-03-05 11:49:39 INFO  MasterCardCreditCardValidator:40 - Card with number 5425 2334 4020 9903 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:49:39 INFO  LuhnStrategy:39 - 5425233440209903 fails the Luhn validation
+2023-03-05 11:52:50 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 11:52:50 INFO  AbstractValidator:12 - Validating card with number: 5037 0765 5312 7327
+2023-03-05 11:52:50 INFO  AbstractValidator:28 - Input 5037076553127327 is valid
+2023-03-05 11:52:50 INFO  AbstractValidator:12 - Validating card with number: 5680 6463 4277 4402
+2023-03-05 11:52:50 INFO  AbstractValidator:28 - Input 5680646342774402 is valid
+2023-03-05 11:52:50 INFO  AbstractValidator:12 - Validating card with number: 2721 5214 7811 2586
+2023-03-05 11:52:50 INFO  AbstractValidator:28 - Input 2721521478112586 is valid
+2023-03-05 11:52:50 INFO  AbstractValidator:12 - Validating card with number: 2220 4200 1100 1113
+2023-03-05 11:52:50 INFO  AbstractValidator:28 - Input 2220420011001113 is valid
+2023-03-05 11:52:50 INFO  AbstractValidator:12 - Validating card with number: 6425 2334 4020 9903
+2023-03-05 11:52:50 INFO  AbstractValidator:28 - Input 6425233440209903 is valid
+2023-03-05 11:57:14 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 11:57:14 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 11:57:14 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 11:57:14 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:57:14 INFO  LuhnStrategy:37 - 376102792936197 passes the Luhn validation
+2023-03-05 11:57:14 INFO  AbstractValidator:12 - Validating card with number: 347060116846136
+2023-03-05 11:57:14 INFO  AbstractValidator:28 - Input 347060116846136 is valid
+2023-03-05 11:57:14 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116846136 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:57:14 INFO  LuhnStrategy:37 - 347060116846136 passes the Luhn validation
+2023-03-05 11:57:14 INFO  AbstractValidator:12 - Validating card with number: 373309495650081
+2023-03-05 11:57:14 INFO  AbstractValidator:28 - Input 373309495650081 is valid
+2023-03-05 11:57:14 INFO  AmericanExpressCreditCardValidator:42 - Card with number 373309495650081 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:57:14 INFO  LuhnStrategy:37 - 373309495650081 passes the Luhn validation
+2023-03-05 11:57:14 INFO  AbstractValidator:12 - Validating card with number: 374245455400126
+2023-03-05 11:57:14 INFO  AbstractValidator:28 - Input 374245455400126 is valid
+2023-03-05 11:57:14 INFO  AmericanExpressCreditCardValidator:42 - Card with number 374245455400126 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:57:14 INFO  LuhnStrategy:37 - 374245455400126 passes the Luhn validation
+2023-03-05 11:57:14 INFO  AbstractValidator:12 - Validating card with number: 378282246310005
+2023-03-05 11:57:14 INFO  AbstractValidator:28 - Input 378282246310005 is valid
+2023-03-05 11:57:14 INFO  AmericanExpressCreditCardValidator:42 - Card with number 378282246310005 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:57:14 INFO  LuhnStrategy:37 - 378282246310005 passes the Luhn validation
+2023-03-05 11:57:23 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 11:57:23 INFO  AbstractValidator:12 - Validating card with number: 376102792937197
+2023-03-05 11:57:23 INFO  AbstractValidator:28 - Input 376102792937197 is valid
+2023-03-05 11:57:23 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792937197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:57:23 INFO  LuhnStrategy:39 - 376102792937197 fails the Luhn validation
+2023-03-05 11:57:23 INFO  AbstractValidator:12 - Validating card with number: 347060116847236
+2023-03-05 11:57:23 INFO  AbstractValidator:28 - Input 347060116847236 is valid
+2023-03-05 11:57:23 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116847236 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:57:23 INFO  LuhnStrategy:39 - 347060116847236 fails the Luhn validation
+2023-03-05 11:57:23 INFO  AbstractValidator:12 - Validating card with number: 373309495651181
+2023-03-05 11:57:23 INFO  AbstractValidator:28 - Input 373309495651181 is valid
+2023-03-05 11:57:23 INFO  AmericanExpressCreditCardValidator:42 - Card with number 373309495651181 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:57:23 INFO  LuhnStrategy:39 - 373309495651181 fails the Luhn validation
+2023-03-05 11:57:23 INFO  AbstractValidator:12 - Validating card with number: 374245450000126
+2023-03-05 11:57:23 INFO  AbstractValidator:28 - Input 374245450000126 is valid
+2023-03-05 11:57:23 INFO  AmericanExpressCreditCardValidator:42 - Card with number 374245450000126 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:57:23 INFO  LuhnStrategy:39 - 374245450000126 fails the Luhn validation
+2023-03-05 11:57:23 INFO  AbstractValidator:12 - Validating card with number: 378281146310005
+2023-03-05 11:57:23 INFO  AbstractValidator:28 - Input 378281146310005 is valid
+2023-03-05 11:57:23 INFO  AmericanExpressCreditCardValidator:42 - Card with number 378281146310005 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:57:23 INFO  LuhnStrategy:39 - 378281146310005 fails the Luhn validation
+2023-03-05 11:57:27 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 11:57:27 INFO  AbstractValidator:12 - Validating card with number: 5037 0765 5312 7327
+2023-03-05 11:57:27 INFO  AbstractValidator:28 - Input 5037076553127327 is valid
+2023-03-05 11:57:27 INFO  AbstractValidator:12 - Validating card with number: 5680 6463 4277 4402
+2023-03-05 11:57:27 INFO  AbstractValidator:28 - Input 5680646342774402 is valid
+2023-03-05 11:57:27 INFO  AbstractValidator:12 - Validating card with number: 2721 5214 7811 2586
+2023-03-05 11:57:27 INFO  AbstractValidator:28 - Input 2721521478112586 is valid
+2023-03-05 11:57:27 INFO  AbstractValidator:12 - Validating card with number: 2220 4200 1100 1113
+2023-03-05 11:57:27 INFO  AbstractValidator:28 - Input 2220420011001113 is valid
+2023-03-05 11:57:27 INFO  AbstractValidator:12 - Validating card with number: 6425 2334 4020 9903
+2023-03-05 11:57:27 INFO  AbstractValidator:28 - Input 6425233440209903 is valid
+2023-03-05 11:58:34 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 5037 0765 5312 7327
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 5037076553127327 is valid
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 5680 6463 4277 4402
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 5680646342774402 is valid
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 2721 5214 7811 2586
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 2721521478112586 is valid
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 2220 4200 1100 1113
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 2220420011001113 is valid
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 6425 2334 4020 9903
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 6425233440209903 is valid
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 11:58:34 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:37 - 376102792936197 passes the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 347060116846136
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 347060116846136 is valid
+2023-03-05 11:58:34 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116846136 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:37 - 347060116846136 passes the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 373309495650081
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 373309495650081 is valid
+2023-03-05 11:58:34 INFO  AmericanExpressCreditCardValidator:42 - Card with number 373309495650081 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:37 - 373309495650081 passes the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 374245455400126
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 374245455400126 is valid
+2023-03-05 11:58:34 INFO  AmericanExpressCreditCardValidator:42 - Card with number 374245455400126 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:37 - 374245455400126 passes the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 378282246310005
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 378282246310005 is valid
+2023-03-05 11:58:34 INFO  AmericanExpressCreditCardValidator:42 - Card with number 378282246310005 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:37 - 378282246310005 passes the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 376102792937197
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 376102792937197 is valid
+2023-03-05 11:58:34 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792937197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:39 - 376102792937197 fails the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 347060116847236
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 347060116847236 is valid
+2023-03-05 11:58:34 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116847236 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:39 - 347060116847236 fails the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 373309495651181
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 373309495651181 is valid
+2023-03-05 11:58:34 INFO  AmericanExpressCreditCardValidator:42 - Card with number 373309495651181 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:39 - 373309495651181 fails the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 374245450000126
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 374245450000126 is valid
+2023-03-05 11:58:34 INFO  AmericanExpressCreditCardValidator:42 - Card with number 374245450000126 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:39 - 374245450000126 fails the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 378281146310005
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 378281146310005 is valid
+2023-03-05 11:58:34 INFO  AmericanExpressCreditCardValidator:42 - Card with number 378281146310005 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:39 - 378281146310005 fails the Luhn validation
+2023-03-05 11:58:34 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 4532888711880762
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 4532888711880762 is valid
+2023-03-05 11:58:34 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 11:58:34 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 11:58:34 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 TRACE RegexCreditCardFactory:30 - MasterCard selected
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 5580646342674402
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 11:58:34 INFO  MasterCardCreditCardValidator:40 - Card with number 5580646342674402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 4485600345100609
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 4485600345100609 is valid
+2023-03-05 11:58:34 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 11:58:34 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 347060116846136
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 347060116846136 is valid
+2023-03-05 11:58:34 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116846136 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 4716955349044653
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 4716955349044653 is valid
+2023-03-05 11:58:34 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 11:58:34 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 11:58:34 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:37 - 376102792936197 passes the Luhn validation
+2023-03-05 11:58:34 TRACE RegexCreditCardFactory:30 - MasterCard selected
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 5537076553127227
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 11:58:34 INFO  MasterCardCreditCardValidator:40 - Card with number 5537076553127227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 5537 0765 5312 7327
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 5537076553127327 is valid
+2023-03-05 11:58:34 INFO  MasterCardCreditCardValidator:40 - Card with number 5537 0765 5312 7327 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:39 - 5537076553127327 fails the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 5580 6463 4277 4402
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 5580646342774402 is valid
+2023-03-05 11:58:34 INFO  MasterCardCreditCardValidator:40 - Card with number 5580 6463 4277 4402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:39 - 5580646342774402 fails the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 2720 5214 7811 2586
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 2720521478112586 is valid
+2023-03-05 11:58:34 INFO  MasterCardCreditCardValidator:40 - Card with number 2720 5214 7811 2586 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:39 - 2720521478112586 fails the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 2222 4200 1100 1113
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 2222420011001113 is valid
+2023-03-05 11:58:34 INFO  MasterCardCreditCardValidator:40 - Card with number 2222 4200 1100 1113 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:39 - 2222420011001113 fails the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 5425 2334 4020 9903
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 5425233440209903 is valid
+2023-03-05 11:58:34 INFO  MasterCardCreditCardValidator:40 - Card with number 5425 2334 4020 9903 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:39 - 5425233440209903 fails the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 5537 0765 5312 7227
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 11:58:34 INFO  MasterCardCreditCardValidator:40 - Card with number 5537 0765 5312 7227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:37 - 5537076553127227 passes the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 5580 6463 4267 4402
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 11:58:34 INFO  MasterCardCreditCardValidator:40 - Card with number 5580 6463 4267 4402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 2720 5113 7811 2586
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 2720511378112586 is valid
+2023-03-05 11:58:34 INFO  MasterCardCreditCardValidator:40 - Card with number 2720 5113 7811 2586 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:37 - 2720511378112586 passes the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 2222 4200 0000 1113
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 2222420000001113 is valid
+2023-03-05 11:58:34 INFO  MasterCardCreditCardValidator:40 - Card with number 2222 4200 0000 1113 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:37 - 2222420000001113 passes the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 5425 2334 3010 9903
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 5425233430109903 is valid
+2023-03-05 11:58:34 INFO  MasterCardCreditCardValidator:40 - Card with number 5425 2334 3010 9903 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:37 - 5425233430109903 passes the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 5037 0765 5312 7327
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 5037076553127327 is valid
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 5680 6463 4277 4402
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 5680646342774402 is valid
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 2721 5214 7811 2586
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 2721521478112586 is valid
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 2220 4200 1100 1113
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 2220420011001113 is valid
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 6425 2334 4020 9903
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 6425233440209903 is valid
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 4485600345100609
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 4485600345100609 is valid
+2023-03-05 11:58:34 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:37 - 4485600345100609 passes the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 4716955349044663
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 4716955349044663 is valid
+2023-03-05 11:58:34 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:39 - 4716955349044663 fails the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 6011-6048-5591-4032
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 6011604855914032 is valid
+2023-03-05 11:58:34 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:39 - 6011604855914032 fails the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 3563 9379 7208 6062
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 3563937972086062 is valid
+2023-03-05 11:58:34 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:39 - 3563937972086062 fails the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 5580644322674402
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 5580644322674402 is valid
+2023-03-05 11:58:34 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:39 - 5580644322674402 fails the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 4716955349044653
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 4716955349044653 is valid
+2023-03-05 11:58:34 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:37 - 4716955349044653 passes the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 6011-6048-5891-4032
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 6011604858914032 is valid
+2023-03-05 11:58:34 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:37 - 6011604858914032 passes the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 3563 9399 7208 6062
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 3563939972086062 is valid
+2023-03-05 11:58:34 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:37 - 3563939972086062 passes the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 5580646342674402
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 11:58:34 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 1234 5678 9012 3456
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 1234567890123456 is valid
+2023-03-05 11:58:34 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:39 - 1234567890123456 fails the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number:  CC 4539 1488-0343,6467A
+2023-03-05 11:58:34 INFO  AbstractValidator:28 - Input 4539148803436467 is valid
+2023-03-05 11:58:34 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 11:58:34 INFO  LuhnStrategy:37 - 4539148803436467 passes the Luhn validation
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 12345678901234567890
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: 123456789
+2023-03-05 11:58:34 INFO  AbstractValidator:12 - Validating card with number: This is not a CC
+2023-03-05 11:58:34 INFO  LuhnStrategy:37 - 123456789155 passes the Luhn validation
+2023-03-05 11:58:34 INFO  LuhnStrategy:39 - 1010101010100030 fails the Luhn validation
+2023-03-05 12:01:06 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 12:01:06 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 12:01:06 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 12:01:06 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 12:01:06 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 12:01:32 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 12:01:32 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 12:01:32 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 12:01:32 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 12:01:32 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 12:01:32 INFO  LuhnStrategy:37 - 376102792936197 passes the Luhn validation
+2023-03-05 13:58:25 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 5037 0765 5312 7327
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 5037076553127327 is valid
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 5680 6463 4277 4402
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 5680646342774402 is valid
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 2721 5214 7811 2586
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 2721521478112586 is valid
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 2220 4200 1100 1113
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 2220420011001113 is valid
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 6425 2334 4020 9903
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 6425233440209903 is valid
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 13:58:25 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:37 - 376102792936197 passes the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 347060116846136
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 347060116846136 is valid
+2023-03-05 13:58:25 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116846136 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:37 - 347060116846136 passes the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 373309495650081
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 373309495650081 is valid
+2023-03-05 13:58:25 INFO  AmericanExpressCreditCardValidator:42 - Card with number 373309495650081 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:37 - 373309495650081 passes the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 374245455400126
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 374245455400126 is valid
+2023-03-05 13:58:25 INFO  AmericanExpressCreditCardValidator:42 - Card with number 374245455400126 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:37 - 374245455400126 passes the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 378282246310005
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 378282246310005 is valid
+2023-03-05 13:58:25 INFO  AmericanExpressCreditCardValidator:42 - Card with number 378282246310005 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:37 - 378282246310005 passes the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 376102792937197
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 376102792937197 is valid
+2023-03-05 13:58:25 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792937197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:39 - 376102792937197 fails the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 347060116847236
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 347060116847236 is valid
+2023-03-05 13:58:25 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116847236 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:39 - 347060116847236 fails the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 373309495651181
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 373309495651181 is valid
+2023-03-05 13:58:25 INFO  AmericanExpressCreditCardValidator:42 - Card with number 373309495651181 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:39 - 373309495651181 fails the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 374245450000126
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 374245450000126 is valid
+2023-03-05 13:58:25 INFO  AmericanExpressCreditCardValidator:42 - Card with number 374245450000126 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:39 - 374245450000126 fails the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 378281146310005
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 378281146310005 is valid
+2023-03-05 13:58:25 INFO  AmericanExpressCreditCardValidator:42 - Card with number 378281146310005 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:39 - 378281146310005 fails the Luhn validation
+2023-03-05 13:58:25 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 4532888711880762
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 4532888711880762 is valid
+2023-03-05 13:58:25 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 13:58:25 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 13:58:25 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 TRACE RegexCreditCardFactory:30 - MasterCard selected
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 5580646342674402
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 13:58:25 INFO  MasterCardCreditCardValidator:40 - Card with number 5580646342674402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 4485600345100609
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 4485600345100609 is valid
+2023-03-05 13:58:25 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 13:58:25 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 347060116846136
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 347060116846136 is valid
+2023-03-05 13:58:25 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116846136 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 4716955349044653
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 4716955349044653 is valid
+2023-03-05 13:58:25 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 13:58:25 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 13:58:25 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:37 - 376102792936197 passes the Luhn validation
+2023-03-05 13:58:25 TRACE RegexCreditCardFactory:30 - MasterCard selected
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 5537076553127227
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 13:58:25 INFO  MasterCardCreditCardValidator:40 - Card with number 5537076553127227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 5537 0765 5312 7327
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 5537076553127327 is valid
+2023-03-05 13:58:25 INFO  MasterCardCreditCardValidator:40 - Card with number 5537 0765 5312 7327 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:39 - 5537076553127327 fails the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 5580 6463 4277 4402
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 5580646342774402 is valid
+2023-03-05 13:58:25 INFO  MasterCardCreditCardValidator:40 - Card with number 5580 6463 4277 4402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:39 - 5580646342774402 fails the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 2720 5214 7811 2586
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 2720521478112586 is valid
+2023-03-05 13:58:25 INFO  MasterCardCreditCardValidator:40 - Card with number 2720 5214 7811 2586 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:39 - 2720521478112586 fails the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 2222 4200 1100 1113
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 2222420011001113 is valid
+2023-03-05 13:58:25 INFO  MasterCardCreditCardValidator:40 - Card with number 2222 4200 1100 1113 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:39 - 2222420011001113 fails the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 5425 2334 4020 9903
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 5425233440209903 is valid
+2023-03-05 13:58:25 INFO  MasterCardCreditCardValidator:40 - Card with number 5425 2334 4020 9903 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:39 - 5425233440209903 fails the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 5537 0765 5312 7227
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 13:58:25 INFO  MasterCardCreditCardValidator:40 - Card with number 5537 0765 5312 7227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:37 - 5537076553127227 passes the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 5580 6463 4267 4402
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 13:58:25 INFO  MasterCardCreditCardValidator:40 - Card with number 5580 6463 4267 4402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 2720 5113 7811 2586
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 2720511378112586 is valid
+2023-03-05 13:58:25 INFO  MasterCardCreditCardValidator:40 - Card with number 2720 5113 7811 2586 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:37 - 2720511378112586 passes the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 2222 4200 0000 1113
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 2222420000001113 is valid
+2023-03-05 13:58:25 INFO  MasterCardCreditCardValidator:40 - Card with number 2222 4200 0000 1113 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:37 - 2222420000001113 passes the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 5425 2334 3010 9903
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 5425233430109903 is valid
+2023-03-05 13:58:25 INFO  MasterCardCreditCardValidator:40 - Card with number 5425 2334 3010 9903 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:37 - 5425233430109903 passes the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 5037 0765 5312 7327
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 5037076553127327 is valid
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 5680 6463 4277 4402
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 5680646342774402 is valid
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 2721 5214 7811 2586
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 2721521478112586 is valid
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 2220 4200 1100 1113
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 2220420011001113 is valid
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 6425 2334 4020 9903
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 6425233440209903 is valid
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 4485600345100609
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 4485600345100609 is valid
+2023-03-05 13:58:25 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:37 - 4485600345100609 passes the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 4716955349044663
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 4716955349044663 is valid
+2023-03-05 13:58:25 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:39 - 4716955349044663 fails the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 6011-6048-5591-4032
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 6011604855914032 is valid
+2023-03-05 13:58:25 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:39 - 6011604855914032 fails the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 3563 9379 7208 6062
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 3563937972086062 is valid
+2023-03-05 13:58:25 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:39 - 3563937972086062 fails the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 5580644322674402
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 5580644322674402 is valid
+2023-03-05 13:58:25 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:39 - 5580644322674402 fails the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 4716955349044653
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 4716955349044653 is valid
+2023-03-05 13:58:25 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:37 - 4716955349044653 passes the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 6011-6048-5891-4032
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 6011604858914032 is valid
+2023-03-05 13:58:25 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:37 - 6011604858914032 passes the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 3563 9399 7208 6062
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 3563939972086062 is valid
+2023-03-05 13:58:25 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:37 - 3563939972086062 passes the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 5580646342674402
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 13:58:25 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 1234 5678 9012 3456
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 1234567890123456 is valid
+2023-03-05 13:58:25 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:39 - 1234567890123456 fails the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number:  CC 4539 1488-0343,6467A
+2023-03-05 13:58:25 INFO  AbstractValidator:28 - Input 4539148803436467 is valid
+2023-03-05 13:58:25 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 13:58:25 INFO  LuhnStrategy:37 - 4539148803436467 passes the Luhn validation
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 12345678901234567890
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: 123456789
+2023-03-05 13:58:25 INFO  AbstractValidator:12 - Validating card with number: This is not a CC
+2023-03-05 13:58:25 INFO  LuhnStrategy:37 - 123456789155 passes the Luhn validation
+2023-03-05 13:58:25 INFO  LuhnStrategy:39 - 1010101010100030 fails the Luhn validation
+2023-03-05 14:05:02 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 5037 0765 5312 7327
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 5037076553127327 is valid
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 5680 6463 4277 4402
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 5680646342774402 is valid
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 2721 5214 7811 2586
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 2721521478112586 is valid
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 2220 4200 1100 1113
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 2220420011001113 is valid
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 6425 2334 4020 9903
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 6425233440209903 is valid
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 14:05:02 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:37 - 376102792936197 passes the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 347060116846136
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 347060116846136 is valid
+2023-03-05 14:05:02 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116846136 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:37 - 347060116846136 passes the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 373309495650081
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 373309495650081 is valid
+2023-03-05 14:05:02 INFO  AmericanExpressCreditCardValidator:42 - Card with number 373309495650081 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:37 - 373309495650081 passes the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 374245455400126
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 374245455400126 is valid
+2023-03-05 14:05:02 INFO  AmericanExpressCreditCardValidator:42 - Card with number 374245455400126 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:37 - 374245455400126 passes the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 378282246310005
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 378282246310005 is valid
+2023-03-05 14:05:02 INFO  AmericanExpressCreditCardValidator:42 - Card with number 378282246310005 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:37 - 378282246310005 passes the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 376102792937197
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 376102792937197 is valid
+2023-03-05 14:05:02 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792937197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:39 - 376102792937197 fails the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 347060116847236
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 347060116847236 is valid
+2023-03-05 14:05:02 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116847236 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:39 - 347060116847236 fails the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 373309495651181
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 373309495651181 is valid
+2023-03-05 14:05:02 INFO  AmericanExpressCreditCardValidator:42 - Card with number 373309495651181 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:39 - 373309495651181 fails the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 374245450000126
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 374245450000126 is valid
+2023-03-05 14:05:02 INFO  AmericanExpressCreditCardValidator:42 - Card with number 374245450000126 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:39 - 374245450000126 fails the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 378281146310005
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 378281146310005 is valid
+2023-03-05 14:05:02 INFO  AmericanExpressCreditCardValidator:42 - Card with number 378281146310005 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:39 - 378281146310005 fails the Luhn validation
+2023-03-05 14:05:02 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 4532888711880762
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 4532888711880762 is valid
+2023-03-05 14:05:02 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:05:02 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 14:05:02 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 TRACE RegexCreditCardFactory:30 - MasterCard selected
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 5580646342674402
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 14:05:02 INFO  MasterCardCreditCardValidator:40 - Card with number 5580646342674402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 4485600345100609
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 4485600345100609 is valid
+2023-03-05 14:05:02 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:05:02 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 347060116846136
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 347060116846136 is valid
+2023-03-05 14:05:02 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116846136 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 4716955349044653
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 4716955349044653 is valid
+2023-03-05 14:05:02 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:05:02 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 14:05:02 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:37 - 376102792936197 passes the Luhn validation
+2023-03-05 14:05:02 TRACE RegexCreditCardFactory:30 - MasterCard selected
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 5537076553127227
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 14:05:02 INFO  MasterCardCreditCardValidator:40 - Card with number 5537076553127227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 5537 0765 5312 7327
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 5537076553127327 is valid
+2023-03-05 14:05:02 INFO  MasterCardCreditCardValidator:40 - Card with number 5537 0765 5312 7327 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:39 - 5537076553127327 fails the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 5580 6463 4277 4402
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 5580646342774402 is valid
+2023-03-05 14:05:02 INFO  MasterCardCreditCardValidator:40 - Card with number 5580 6463 4277 4402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:39 - 5580646342774402 fails the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 2720 5214 7811 2586
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 2720521478112586 is valid
+2023-03-05 14:05:02 INFO  MasterCardCreditCardValidator:40 - Card with number 2720 5214 7811 2586 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:39 - 2720521478112586 fails the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 2222 4200 1100 1113
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 2222420011001113 is valid
+2023-03-05 14:05:02 INFO  MasterCardCreditCardValidator:40 - Card with number 2222 4200 1100 1113 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:39 - 2222420011001113 fails the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 5425 2334 4020 9903
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 5425233440209903 is valid
+2023-03-05 14:05:02 INFO  MasterCardCreditCardValidator:40 - Card with number 5425 2334 4020 9903 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:39 - 5425233440209903 fails the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 5537 0765 5312 7227
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 14:05:02 INFO  MasterCardCreditCardValidator:40 - Card with number 5537 0765 5312 7227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:37 - 5537076553127227 passes the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 5580 6463 4267 4402
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 14:05:02 INFO  MasterCardCreditCardValidator:40 - Card with number 5580 6463 4267 4402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 2720 5113 7811 2586
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 2720511378112586 is valid
+2023-03-05 14:05:02 INFO  MasterCardCreditCardValidator:40 - Card with number 2720 5113 7811 2586 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:37 - 2720511378112586 passes the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 2222 4200 0000 1113
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 2222420000001113 is valid
+2023-03-05 14:05:02 INFO  MasterCardCreditCardValidator:40 - Card with number 2222 4200 0000 1113 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:37 - 2222420000001113 passes the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 5425 2334 3010 9903
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 5425233430109903 is valid
+2023-03-05 14:05:02 INFO  MasterCardCreditCardValidator:40 - Card with number 5425 2334 3010 9903 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:37 - 5425233430109903 passes the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 5037 0765 5312 7327
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 5037076553127327 is valid
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 5680 6463 4277 4402
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 5680646342774402 is valid
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 2721 5214 7811 2586
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 2721521478112586 is valid
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 2220 4200 1100 1113
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 2220420011001113 is valid
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 6425 2334 4020 9903
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 6425233440209903 is valid
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 4485600345100609
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 4485600345100609 is valid
+2023-03-05 14:05:02 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:37 - 4485600345100609 passes the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 4716955349044663
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 4716955349044663 is valid
+2023-03-05 14:05:02 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:39 - 4716955349044663 fails the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 6011-6048-5591-4032
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 6011604855914032 is valid
+2023-03-05 14:05:02 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:39 - 6011604855914032 fails the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 3563 9379 7208 6062
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 3563937972086062 is valid
+2023-03-05 14:05:02 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:39 - 3563937972086062 fails the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 5580644322674402
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 5580644322674402 is valid
+2023-03-05 14:05:02 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:39 - 5580644322674402 fails the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 4716955349044653
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 4716955349044653 is valid
+2023-03-05 14:05:02 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:37 - 4716955349044653 passes the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 6011-6048-5891-4032
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 6011604858914032 is valid
+2023-03-05 14:05:02 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:37 - 6011604858914032 passes the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 3563 9399 7208 6062
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 3563939972086062 is valid
+2023-03-05 14:05:02 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:37 - 3563939972086062 passes the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 5580646342674402
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 14:05:02 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 1234 5678 9012 3456
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 1234567890123456 is valid
+2023-03-05 14:05:02 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:39 - 1234567890123456 fails the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number:  CC 4539 1488-0343,6467A
+2023-03-05 14:05:02 INFO  AbstractValidator:28 - Input 4539148803436467 is valid
+2023-03-05 14:05:02 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:05:02 INFO  LuhnStrategy:37 - 4539148803436467 passes the Luhn validation
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 12345678901234567890
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: 123456789
+2023-03-05 14:05:02 INFO  AbstractValidator:12 - Validating card with number: This is not a CC
+2023-03-05 14:05:02 INFO  LuhnStrategy:37 - 123456789155 passes the Luhn validation
+2023-03-05 14:05:02 INFO  LuhnStrategy:39 - 1010101010100030 fails the Luhn validation
+2023-03-05 14:09:27 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 5037 0765 5312 7327
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 5037076553127327 is valid
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 5680 6463 4277 4402
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 5680646342774402 is valid
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 2721 5214 7811 2586
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 2721521478112586 is valid
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 2220 4200 1100 1113
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 2220420011001113 is valid
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 6425 2334 4020 9903
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 6425233440209903 is valid
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 14:09:27 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:37 - 376102792936197 passes the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 347060116846136
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 347060116846136 is valid
+2023-03-05 14:09:27 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116846136 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:37 - 347060116846136 passes the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 373309495650081
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 373309495650081 is valid
+2023-03-05 14:09:27 INFO  AmericanExpressCreditCardValidator:42 - Card with number 373309495650081 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:37 - 373309495650081 passes the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 374245455400126
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 374245455400126 is valid
+2023-03-05 14:09:27 INFO  AmericanExpressCreditCardValidator:42 - Card with number 374245455400126 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:37 - 374245455400126 passes the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 378282246310005
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 378282246310005 is valid
+2023-03-05 14:09:27 INFO  AmericanExpressCreditCardValidator:42 - Card with number 378282246310005 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:37 - 378282246310005 passes the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 376102792937197
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 376102792937197 is valid
+2023-03-05 14:09:27 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792937197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:39 - 376102792937197 fails the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 347060116847236
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 347060116847236 is valid
+2023-03-05 14:09:27 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116847236 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:39 - 347060116847236 fails the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 373309495651181
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 373309495651181 is valid
+2023-03-05 14:09:27 INFO  AmericanExpressCreditCardValidator:42 - Card with number 373309495651181 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:39 - 373309495651181 fails the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 374245450000126
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 374245450000126 is valid
+2023-03-05 14:09:27 INFO  AmericanExpressCreditCardValidator:42 - Card with number 374245450000126 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:39 - 374245450000126 fails the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 378281146310005
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 378281146310005 is valid
+2023-03-05 14:09:27 INFO  AmericanExpressCreditCardValidator:42 - Card with number 378281146310005 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:39 - 378281146310005 fails the Luhn validation
+2023-03-05 14:09:27 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 4532888711880762
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 4532888711880762 is valid
+2023-03-05 14:09:27 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:09:27 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 14:09:27 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 TRACE RegexCreditCardFactory:30 - MasterCard selected
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 5580646342674402
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 14:09:27 INFO  MasterCardCreditCardValidator:40 - Card with number 5580646342674402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 4485600345100609
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 4485600345100609 is valid
+2023-03-05 14:09:27 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:09:27 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 347060116846136
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 347060116846136 is valid
+2023-03-05 14:09:27 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116846136 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 4716955349044653
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 4716955349044653 is valid
+2023-03-05 14:09:27 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:09:27 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 14:09:27 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:37 - 376102792936197 passes the Luhn validation
+2023-03-05 14:09:27 TRACE RegexCreditCardFactory:30 - MasterCard selected
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 5537076553127227
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 14:09:27 INFO  MasterCardCreditCardValidator:40 - Card with number 5537076553127227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 5537 0765 5312 7327
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 5537076553127327 is valid
+2023-03-05 14:09:27 INFO  MasterCardCreditCardValidator:40 - Card with number 5537 0765 5312 7327 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:39 - 5537076553127327 fails the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 5580 6463 4277 4402
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 5580646342774402 is valid
+2023-03-05 14:09:27 INFO  MasterCardCreditCardValidator:40 - Card with number 5580 6463 4277 4402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:39 - 5580646342774402 fails the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 2720 5214 7811 2586
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 2720521478112586 is valid
+2023-03-05 14:09:27 INFO  MasterCardCreditCardValidator:40 - Card with number 2720 5214 7811 2586 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:39 - 2720521478112586 fails the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 2222 4200 1100 1113
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 2222420011001113 is valid
+2023-03-05 14:09:27 INFO  MasterCardCreditCardValidator:40 - Card with number 2222 4200 1100 1113 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:39 - 2222420011001113 fails the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 5425 2334 4020 9903
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 5425233440209903 is valid
+2023-03-05 14:09:27 INFO  MasterCardCreditCardValidator:40 - Card with number 5425 2334 4020 9903 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:39 - 5425233440209903 fails the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 5537 0765 5312 7227
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 14:09:27 INFO  MasterCardCreditCardValidator:40 - Card with number 5537 0765 5312 7227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:37 - 5537076553127227 passes the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 5580 6463 4267 4402
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 14:09:27 INFO  MasterCardCreditCardValidator:40 - Card with number 5580 6463 4267 4402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 2720 5113 7811 2586
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 2720511378112586 is valid
+2023-03-05 14:09:27 INFO  MasterCardCreditCardValidator:40 - Card with number 2720 5113 7811 2586 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:37 - 2720511378112586 passes the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 2222 4200 0000 1113
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 2222420000001113 is valid
+2023-03-05 14:09:27 INFO  MasterCardCreditCardValidator:40 - Card with number 2222 4200 0000 1113 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:37 - 2222420000001113 passes the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 5425 2334 3010 9903
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 5425233430109903 is valid
+2023-03-05 14:09:27 INFO  MasterCardCreditCardValidator:40 - Card with number 5425 2334 3010 9903 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:37 - 5425233430109903 passes the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 5037 0765 5312 7327
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 5037076553127327 is valid
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 5680 6463 4277 4402
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 5680646342774402 is valid
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 2721 5214 7811 2586
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 2721521478112586 is valid
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 2220 4200 1100 1113
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 2220420011001113 is valid
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 6425 2334 4020 9903
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 6425233440209903 is valid
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 4485600345100609
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 4485600345100609 is valid
+2023-03-05 14:09:27 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:37 - 4485600345100609 passes the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 4716955349044663
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 4716955349044663 is valid
+2023-03-05 14:09:27 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:39 - 4716955349044663 fails the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 6011-6048-5591-4032
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 6011604855914032 is valid
+2023-03-05 14:09:27 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:39 - 6011604855914032 fails the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 3563 9379 7208 6062
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 3563937972086062 is valid
+2023-03-05 14:09:27 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:39 - 3563937972086062 fails the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 5580644322674402
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 5580644322674402 is valid
+2023-03-05 14:09:27 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:39 - 5580644322674402 fails the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 4716955349044653
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 4716955349044653 is valid
+2023-03-05 14:09:27 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:37 - 4716955349044653 passes the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 6011-6048-5891-4032
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 6011604858914032 is valid
+2023-03-05 14:09:27 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:37 - 6011604858914032 passes the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 3563 9399 7208 6062
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 3563939972086062 is valid
+2023-03-05 14:09:27 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:37 - 3563939972086062 passes the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 5580646342674402
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 14:09:27 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 1234 5678 9012 3456
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 1234567890123456 is valid
+2023-03-05 14:09:27 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:39 - 1234567890123456 fails the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number:  CC 4539 1488-0343,6467A
+2023-03-05 14:09:27 INFO  AbstractValidator:28 - Input 4539148803436467 is valid
+2023-03-05 14:09:27 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:09:27 INFO  LuhnStrategy:37 - 4539148803436467 passes the Luhn validation
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 12345678901234567890
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: 123456789
+2023-03-05 14:09:27 INFO  AbstractValidator:12 - Validating card with number: This is not a CC
+2023-03-05 14:09:27 INFO  LuhnStrategy:37 - 123456789155 passes the Luhn validation
+2023-03-05 14:09:27 INFO  LuhnStrategy:39 - 1010101010100030 fails the Luhn validation
+2023-03-05 14:16:40 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 5037 0765 5312 7327
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 5037076553127327 is valid
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 5680 6463 4277 4402
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 5680646342774402 is valid
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 2721 5214 7811 2586
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 2721521478112586 is valid
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 2220 4200 1100 1113
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 2220420011001113 is valid
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 6425 2334 4020 9903
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 6425233440209903 is valid
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 14:16:40 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:37 - 376102792936197 passes the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 347060116846136
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 347060116846136 is valid
+2023-03-05 14:16:40 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116846136 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:37 - 347060116846136 passes the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 373309495650081
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 373309495650081 is valid
+2023-03-05 14:16:40 INFO  AmericanExpressCreditCardValidator:42 - Card with number 373309495650081 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:37 - 373309495650081 passes the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 374245455400126
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 374245455400126 is valid
+2023-03-05 14:16:40 INFO  AmericanExpressCreditCardValidator:42 - Card with number 374245455400126 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:37 - 374245455400126 passes the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 378282246310005
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 378282246310005 is valid
+2023-03-05 14:16:40 INFO  AmericanExpressCreditCardValidator:42 - Card with number 378282246310005 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:37 - 378282246310005 passes the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 376102792937197
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 376102792937197 is valid
+2023-03-05 14:16:40 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792937197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:39 - 376102792937197 fails the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 347060116847236
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 347060116847236 is valid
+2023-03-05 14:16:40 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116847236 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:39 - 347060116847236 fails the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 373309495651181
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 373309495651181 is valid
+2023-03-05 14:16:40 INFO  AmericanExpressCreditCardValidator:42 - Card with number 373309495651181 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:39 - 373309495651181 fails the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 374245450000126
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 374245450000126 is valid
+2023-03-05 14:16:40 INFO  AmericanExpressCreditCardValidator:42 - Card with number 374245450000126 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:39 - 374245450000126 fails the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 378281146310005
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 378281146310005 is valid
+2023-03-05 14:16:40 INFO  AmericanExpressCreditCardValidator:42 - Card with number 378281146310005 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:39 - 378281146310005 fails the Luhn validation
+2023-03-05 14:16:40 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 4532888711880762
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 4532888711880762 is valid
+2023-03-05 14:16:40 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:16:40 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 14:16:40 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 TRACE RegexCreditCardFactory:30 - MasterCard selected
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 5580646342674402
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 14:16:40 INFO  MasterCardCreditCardValidator:40 - Card with number 5580646342674402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 4485600345100609
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 4485600345100609 is valid
+2023-03-05 14:16:40 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:16:40 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 347060116846136
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 347060116846136 is valid
+2023-03-05 14:16:40 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116846136 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 4716955349044653
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 4716955349044653 is valid
+2023-03-05 14:16:40 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:16:40 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 14:16:40 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:37 - 376102792936197 passes the Luhn validation
+2023-03-05 14:16:40 TRACE RegexCreditCardFactory:30 - MasterCard selected
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 5537076553127227
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 14:16:40 INFO  MasterCardCreditCardValidator:40 - Card with number 5537076553127227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 5537 0765 5312 7327
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 5537076553127327 is valid
+2023-03-05 14:16:40 INFO  MasterCardCreditCardValidator:40 - Card with number 5537 0765 5312 7327 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:39 - 5537076553127327 fails the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 5580 6463 4277 4402
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 5580646342774402 is valid
+2023-03-05 14:16:40 INFO  MasterCardCreditCardValidator:40 - Card with number 5580 6463 4277 4402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:39 - 5580646342774402 fails the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 2720 5214 7811 2586
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 2720521478112586 is valid
+2023-03-05 14:16:40 INFO  MasterCardCreditCardValidator:40 - Card with number 2720 5214 7811 2586 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:39 - 2720521478112586 fails the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 2222 4200 1100 1113
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 2222420011001113 is valid
+2023-03-05 14:16:40 INFO  MasterCardCreditCardValidator:40 - Card with number 2222 4200 1100 1113 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:39 - 2222420011001113 fails the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 5425 2334 4020 9903
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 5425233440209903 is valid
+2023-03-05 14:16:40 INFO  MasterCardCreditCardValidator:40 - Card with number 5425 2334 4020 9903 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:39 - 5425233440209903 fails the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 5537 0765 5312 7227
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 14:16:40 INFO  MasterCardCreditCardValidator:40 - Card with number 5537 0765 5312 7227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:37 - 5537076553127227 passes the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 5580 6463 4267 4402
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 14:16:40 INFO  MasterCardCreditCardValidator:40 - Card with number 5580 6463 4267 4402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 2720 5113 7811 2586
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 2720511378112586 is valid
+2023-03-05 14:16:40 INFO  MasterCardCreditCardValidator:40 - Card with number 2720 5113 7811 2586 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:37 - 2720511378112586 passes the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 2222 4200 0000 1113
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 2222420000001113 is valid
+2023-03-05 14:16:40 INFO  MasterCardCreditCardValidator:40 - Card with number 2222 4200 0000 1113 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:37 - 2222420000001113 passes the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 5425 2334 3010 9903
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 5425233430109903 is valid
+2023-03-05 14:16:40 INFO  MasterCardCreditCardValidator:40 - Card with number 5425 2334 3010 9903 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:37 - 5425233430109903 passes the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 5037 0765 5312 7327
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 5037076553127327 is valid
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 5680 6463 4277 4402
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 5680646342774402 is valid
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 2721 5214 7811 2586
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 2721521478112586 is valid
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 2220 4200 1100 1113
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 2220420011001113 is valid
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 6425 2334 4020 9903
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 6425233440209903 is valid
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 4485600345100609
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 4485600345100609 is valid
+2023-03-05 14:16:40 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:37 - 4485600345100609 passes the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 4716955349044663
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 4716955349044663 is valid
+2023-03-05 14:16:40 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:39 - 4716955349044663 fails the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 6011-6048-5591-4032
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 6011604855914032 is valid
+2023-03-05 14:16:40 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:39 - 6011604855914032 fails the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 3563 9379 7208 6062
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 3563937972086062 is valid
+2023-03-05 14:16:40 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:39 - 3563937972086062 fails the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 5580644322674402
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 5580644322674402 is valid
+2023-03-05 14:16:40 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:39 - 5580644322674402 fails the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 4716955349044653
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 4716955349044653 is valid
+2023-03-05 14:16:40 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:37 - 4716955349044653 passes the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 6011-6048-5891-4032
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 6011604858914032 is valid
+2023-03-05 14:16:40 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:37 - 6011604858914032 passes the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 3563 9399 7208 6062
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 3563939972086062 is valid
+2023-03-05 14:16:40 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:37 - 3563939972086062 passes the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 5580646342674402
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 14:16:40 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 1234 5678 9012 3456
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 1234567890123456 is valid
+2023-03-05 14:16:40 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:39 - 1234567890123456 fails the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number:  CC 4539 1488-0343,6467A
+2023-03-05 14:16:40 INFO  AbstractValidator:28 - Input 4539148803436467 is valid
+2023-03-05 14:16:40 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 14:16:40 INFO  LuhnStrategy:37 - 4539148803436467 passes the Luhn validation
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 12345678901234567890
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: 123456789
+2023-03-05 14:16:40 INFO  AbstractValidator:12 - Validating card with number: This is not a CC
+2023-03-05 14:16:40 INFO  LuhnStrategy:37 - 123456789155 passes the Luhn validation
+2023-03-05 14:16:40 INFO  LuhnStrategy:39 - 1010101010100030 fails the Luhn validation
+2023-03-05 15:54:00 TRACE ConfigurationManager:39 - Using properties file: /card_patterns.properties
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 5037 0765 5312 7327
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 5037076553127327 is valid
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 5680 6463 4277 4402
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 5680646342774402 is valid
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 2721 5214 7811 2586
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 2721521478112586 is valid
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 2220 4200 1100 1113
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 2220420011001113 is valid
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 6425 2334 4020 9903
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 6425233440209903 is valid
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 15:54:00 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:37 - 376102792936197 passes the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 347060116846136
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 347060116846136 is valid
+2023-03-05 15:54:00 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116846136 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:37 - 347060116846136 passes the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 373309495650081
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 373309495650081 is valid
+2023-03-05 15:54:00 INFO  AmericanExpressCreditCardValidator:42 - Card with number 373309495650081 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:37 - 373309495650081 passes the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 374245455400126
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 374245455400126 is valid
+2023-03-05 15:54:00 INFO  AmericanExpressCreditCardValidator:42 - Card with number 374245455400126 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:37 - 374245455400126 passes the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 378282246310005
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 378282246310005 is valid
+2023-03-05 15:54:00 INFO  AmericanExpressCreditCardValidator:42 - Card with number 378282246310005 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:37 - 378282246310005 passes the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 376102792937197
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 376102792937197 is valid
+2023-03-05 15:54:00 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792937197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:39 - 376102792937197 fails the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 347060116847236
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 347060116847236 is valid
+2023-03-05 15:54:00 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116847236 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:39 - 347060116847236 fails the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 373309495651181
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 373309495651181 is valid
+2023-03-05 15:54:00 INFO  AmericanExpressCreditCardValidator:42 - Card with number 373309495651181 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:39 - 373309495651181 fails the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 374245450000126
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 374245450000126 is valid
+2023-03-05 15:54:00 INFO  AmericanExpressCreditCardValidator:42 - Card with number 374245450000126 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:39 - 374245450000126 fails the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 378281146310005
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 378281146310005 is valid
+2023-03-05 15:54:00 INFO  AmericanExpressCreditCardValidator:42 - Card with number 378281146310005 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:39 - 378281146310005 fails the Luhn validation
+2023-03-05 15:54:00 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 4532888711880762
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 4532888711880762 is valid
+2023-03-05 15:54:00 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 15:54:00 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 15:54:00 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 TRACE RegexCreditCardFactory:30 - MasterCard selected
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 5580646342674402
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 15:54:00 INFO  MasterCardCreditCardValidator:40 - Card with number 5580646342674402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 4485600345100609
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 4485600345100609 is valid
+2023-03-05 15:54:00 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 15:54:00 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 347060116846136
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 347060116846136 is valid
+2023-03-05 15:54:00 INFO  AmericanExpressCreditCardValidator:42 - Card with number 347060116846136 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 TRACE RegexCreditCardFactory:33 - Generic Credit Card selected
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 4716955349044653
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 4716955349044653 is valid
+2023-03-05 15:54:00 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 15:54:00 TRACE RegexCreditCardFactory:27 - American Express selected
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 376102792936197
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 376102792936197 is valid
+2023-03-05 15:54:00 INFO  AmericanExpressCreditCardValidator:42 - Card with number 376102792936197 is a American Express card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:37 - 376102792936197 passes the Luhn validation
+2023-03-05 15:54:00 TRACE RegexCreditCardFactory:30 - MasterCard selected
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 5537076553127227
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 15:54:00 INFO  MasterCardCreditCardValidator:40 - Card with number 5537076553127227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 5537 0765 5312 7327
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 5537076553127327 is valid
+2023-03-05 15:54:00 INFO  MasterCardCreditCardValidator:40 - Card with number 5537 0765 5312 7327 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:39 - 5537076553127327 fails the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 5580 6463 4277 4402
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 5580646342774402 is valid
+2023-03-05 15:54:00 INFO  MasterCardCreditCardValidator:40 - Card with number 5580 6463 4277 4402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:39 - 5580646342774402 fails the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 2720 5214 7811 2586
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 2720521478112586 is valid
+2023-03-05 15:54:00 INFO  MasterCardCreditCardValidator:40 - Card with number 2720 5214 7811 2586 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:39 - 2720521478112586 fails the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 2222 4200 1100 1113
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 2222420011001113 is valid
+2023-03-05 15:54:00 INFO  MasterCardCreditCardValidator:40 - Card with number 2222 4200 1100 1113 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:39 - 2222420011001113 fails the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 5425 2334 4020 9903
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 5425233440209903 is valid
+2023-03-05 15:54:00 INFO  MasterCardCreditCardValidator:40 - Card with number 5425 2334 4020 9903 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:39 - 5425233440209903 fails the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 5537 0765 5312 7227
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 5537076553127227 is valid
+2023-03-05 15:54:00 INFO  MasterCardCreditCardValidator:40 - Card with number 5537 0765 5312 7227 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:37 - 5537076553127227 passes the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 5580 6463 4267 4402
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 15:54:00 INFO  MasterCardCreditCardValidator:40 - Card with number 5580 6463 4267 4402 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 2720 5113 7811 2586
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 2720511378112586 is valid
+2023-03-05 15:54:00 INFO  MasterCardCreditCardValidator:40 - Card with number 2720 5113 7811 2586 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:37 - 2720511378112586 passes the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 2222 4200 0000 1113
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 2222420000001113 is valid
+2023-03-05 15:54:00 INFO  MasterCardCreditCardValidator:40 - Card with number 2222 4200 0000 1113 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:37 - 2222420000001113 passes the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 5425 2334 3010 9903
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 5425233430109903 is valid
+2023-03-05 15:54:00 INFO  MasterCardCreditCardValidator:40 - Card with number 5425 2334 3010 9903 is a MasterCard card, using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:37 - 5425233430109903 passes the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 5037 0765 5312 7327
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 5037076553127327 is valid
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 5680 6463 4277 4402
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 5680646342774402 is valid
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 2721 5214 7811 2586
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 2721521478112586 is valid
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 2220 4200 1100 1113
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 2220420011001113 is valid
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 6425 2334 4020 9903
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 6425233440209903 is valid
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 4485600345100609
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 4485600345100609 is valid
+2023-03-05 15:54:00 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:37 - 4485600345100609 passes the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 4716955349044663
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 4716955349044663 is valid
+2023-03-05 15:54:00 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:39 - 4716955349044663 fails the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 6011-6048-5591-4032
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 6011604855914032 is valid
+2023-03-05 15:54:00 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:39 - 6011604855914032 fails the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 3563 9379 7208 6062
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 3563937972086062 is valid
+2023-03-05 15:54:00 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:39 - 3563937972086062 fails the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 5580644322674402
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 5580644322674402 is valid
+2023-03-05 15:54:00 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:39 - 5580644322674402 fails the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 4716955349044653
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 4716955349044653 is valid
+2023-03-05 15:54:00 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:37 - 4716955349044653 passes the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 6011-6048-5891-4032
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 6011604858914032 is valid
+2023-03-05 15:54:00 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:37 - 6011604858914032 passes the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 3563 9399 7208 6062
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 3563939972086062 is valid
+2023-03-05 15:54:00 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:37 - 3563939972086062 passes the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 5580646342674402
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 5580646342674402 is valid
+2023-03-05 15:54:00 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:37 - 5580646342674402 passes the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 1234 5678 9012 3456
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 1234567890123456 is valid
+2023-03-05 15:54:00 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:39 - 1234567890123456 fails the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number:  CC 4539 1488-0343,6467A
+2023-03-05 15:54:00 INFO  AbstractValidator:28 - Input 4539148803436467 is valid
+2023-03-05 15:54:00 INFO  GenericCreditCardValidator:17 - Using strategy: LuhnStrategy
+2023-03-05 15:54:00 INFO  LuhnStrategy:37 - 4539148803436467 passes the Luhn validation
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 12345678901234567890
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: 123456789
+2023-03-05 15:54:00 INFO  AbstractValidator:12 - Validating card with number: This is not a CC
+2023-03-05 15:54:00 INFO  LuhnStrategy:37 - 123456789155 passes the Luhn validation
+2023-03-05 15:54:00 INFO  LuhnStrategy:39 - 1010101010100030 fails the Luhn validation
